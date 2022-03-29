@@ -1,0 +1,14 @@
+[
+ {
+  "name": "Vadim Geurkov",
+  "email": "vgeurkov@ryerson.ca",
+  "link": "https://www.ryerson.ca/electrical-computer-biomedical/people/faculty/vadim-geurkov/",
+  "image": "./Images/geurkov.jpg"
+ },
+ {
+  "name": "Lev Kirischian",
+  "email":"lkirisch@ee.ryerson.ca",
+  "link": "https://www.ryerson.ca/electrical-computer-biomedical/people/faculty/lev-kirischian/",
+  "image": "./Images/kirischian.jpg"
+ }
+] 

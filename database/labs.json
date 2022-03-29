@@ -1,0 +1,62 @@
+[
+  {
+   "title": "Reference Manual",
+   "container": 
+   [
+     {
+       "name": ["HCS12"],
+       "link": ["./files/Labs/HCS12.pdf"]
+     },
+     {
+       "name": ["9S12C"],
+       "link": ["./files/Labs/9S12C.pdf"]
+     },
+     {
+       "name": ["9S12D User Guide"],
+       "link": ["./files/Labs/9S12D.pdf"]
+     }
+   ]
+  },
+ {
+   "title": "Labs",
+   "container":
+   [
+    {
+      "name": ["Lab 1"],
+      "title": "Using the CodeWarrior IDE and Introduction to Assembly Programming",
+      "link": ["./files/Labs/Lab1.pdf"],
+      "faq": "-----"
+    },
+    {
+      "name": ["Lab 2"],
+      "title": "Programming the I/O Devices",
+      "link": ["./files/Labs/Lab2.pdf"],
+      "faq": "-----"
+    },
+    {
+      "name": ["Lab 3"],
+      "title": "Battery and Bumper Displays",
+      "link": ["./files/Labs/Lab3.pdf"],
+      "faq": "-----"
+    },
+    {
+      "name": ["Lab 4"],
+      "title": "Motor Control and Using the Hardware Timer",
+      "link": ["./files/Labs/Lab4.pdf"],
+      "faq": "./files/Labs/Lab4FAQ.pdf"
+    },
+    {
+      "name": ["Lab 5"],
+      "title": "Robot Roaming Program",
+      "link": ["./files/Labs/Lab5.pdf"],
+      "faq": "-----"
+    },
+    {
+      "name": ["Project", "Guider"],
+      "title": "Microprocessor Systems Lab Project Robot Guidance Challenge",
+      "link": ["./files/Labs/Project.pdf", "./files/Labs/Guider.pdf"],
+      "faq": "-----"
+    }
+   ]
+  }
+]

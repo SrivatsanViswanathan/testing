@@ -1,0 +1,45 @@
+[
+ {
+  "title": "Coding Standards",
+  "container": [
+   {
+    "name": "General Coding Standards",
+    "link": "./files/Modules/General-Coding-Standards.pdf"
+   },
+   {
+    "name": "Assembly Coding Standards",
+    "link": "./files/Modules/Assembly-Coding-Standards.pdf"
+   },
+   {
+    "name": "C Coding Standards",
+    "link": "./files/Modules/C-Coding-Standards.pdf"
+   }
+  ]
+ },
+ {
+  "title": "Modules",
+  "container":
+  [
+   {
+    "name": "Using Modules (Read this first)",
+    "link": "./files/Modules/Using-Modules.pdf"
+   },
+   {
+    "name": "STDIO",
+    "link": "./files/Modules/stdio.pdf"
+   },
+   {
+    "name": "STDLIB",
+    "link": "./files/Modules/stdlib.pdf"
+   },
+   {
+    "name": "STRINGS",
+    "link": "./files/Modules/strings.pdf"
+   },
+   {
+    "name": "TIMER",
+    "link": "./files/Modules/timer.pdf"
+   }
+  ]
+ }
+]

@@ -1,0 +1,10 @@
+[
+ {
+  "name": "LCD",
+  "link": "./files/Data-Sheets/LCD.pdf"
+ },
+ {
+  "name": "Keypad",
+  "link": "./files/Data-Sheets/Keypad.pdf"
+ }
+]

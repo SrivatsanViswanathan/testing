@@ -1,0 +1,61 @@
+[
+ {
+  "name": "Ken Clowes",
+  "lectures":
+  [
+   {
+    "week": "Week 1",
+    "link": "./files/Lectures/Clowes/Week1.pdf"
+   },
+   {
+    "week": "Week 2",
+    "link": "./files/Lectures/Clowes/Week2.pdf"
+   },
+   {
+    "week": "Week 3",
+    "link": "./files/Lectures/Clowes/Week3.pdf"
+   },
+   {
+    "week": "Week 4",
+    "link": "./files/Lectures/Clowes/Week4.pdf"
+   },
+   {
+    "week": "Week 5",
+    "link": "./files/Lectures/Clowes/Week5.pdf"
+   },
+   {
+    "week": "Week 6",
+    "link": "./files/Lectures/Clowes/Week6.pdf"
+   },
+   {
+    "week": "Week 7",
+    "link": "./files/Lectures/Lectures/Clowes/Week7.pdf"
+   },
+   {
+    "week": "Week 8",
+    "link": "./files/Lectures/Clowes/Week8.pdf"
+   },
+   {
+    "week": "Week 9",
+    "link": "./files/Lectures/Clowes/Week9.pdf"
+   },
+   {
+    "week": "Week 10",
+    "link": "./files/Lectures/Clowes/Week10.pdf"
+   }
+  ]
+ },
+ {
+  "name": "Lev Kirischian",
+  "lectures": [
+   {
+    "week": "Week 1 and Week 2",
+    "link": "./files/Lectures/Kirischian/Week1-and-Week2.pdf"
+   },
+   {
+    "week": "Week 3",
+    "link": "./files/Lectures/Kirischian/Week3.pdf"
+   }
+  ]
+ }
+]
