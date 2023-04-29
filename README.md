@@ -17,7 +17,7 @@ An upgraded version of the COE 538 Website. The current official version is this
 
 # Link
 
-Link: https://github.com/SrivatsanViswanathan/testing
+Link: https://srivatsanviswanathan.github.io/testing/
 
 # Disclaimer
 
