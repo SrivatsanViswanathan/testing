@@ -1,143 +1,147 @@
-body, html {
- height: 100%;
- display: flex;
- flex-direction: column;
- margin: 0;
- padding: 0;
+body,
+html {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
 }
 
 ul {
- padding: 0;
- margin: 0;
-
+  padding: 0;
+  margin: 0;
 }
 #body a {
- color: blueviolet;
+  color: blueviolet;
 }
 a:visited {
   color: blueviolet;
 }
 
 #header {
- background-color: #002D72;
+  background-color: #002d72;
 }
 
 #header {
- color: white;
+  color: white;
 }
 
 #header h1 {
- text-align: center;
+  text-align: center;
 }
 
 .responsive-image {
- display: flex;
- width: 100%;
- height: auto;
+  display: flex;
+  width: 100%;
+  height: auto;
 }
 
 nav {
-display: flex;
-justify-content: center;
-overflow: hidden;
-background-color: #002D72;
-min-height: 50px;
-text-align: center;
-align-items: center;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  background-color: #002d72;
+  min-height: 50px;
+  text-align: center;
+  align-items: center;
 }
 
 .navbar a {
   display: flex;
- color: white;
- text-decoration: none;
- padding-right: 3vw;
- padding-left: 3vw;
- font-size: 100%;
+  color: white;
+  text-decoration: none;
+  padding-right: 3vw;
+  padding-left: 3vw;
+  font-size: 100%;
 }
 
 .navbar .icon {
   display: none;
 }
 
-.outline, .schedule {
- display: flex;
- margin-right: auto;
- margin-left: auto;
- width: 100%;
- height: 680px;
+.outline,
+.schedule {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  height: 680px;
 }
 
-
 #header a:hover {
- cursor: pointer;
+  cursor: pointer;
 }
 
 #body {
- margin-right: 10%;
- margin-left: 10%;
- margin-bottom: 1%;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 1%;
 }
 
 #body h2 {
- text-align: center;
- color: blueviolet;
+  text-align: center;
+  color: blueviolet;
 }
 
-#body ul, #body a {
- text-decoration: none;
- list-style: none;
+#body ul,
+#body a {
+  text-decoration: none;
+  list-style: none;
 }
 
 #body h3 {
- text-align: center;
- border-bottom: 2px solid black;
+  text-align: center;
+  border-bottom: 2px solid black;
 }
 
 #body .table {
- overflow-x: auto;
+  overflow-x: auto;
 }
 
 #body .intro {
- margin-bottom: 1%;
+  margin-bottom: 1%;
 }
 
 .labs a {
   display: block;
 }
 
-.labs td, .labs th {
- border: 2px solid #002D72;
- padding-right: 2vw;
- padding-left: 2vw;
+.labs td,
+.labs th {
+  border: 2px solid #002d72;
+  padding-right: 2vw;
+  padding-left: 2vw;
 }
 
 .labs-table {
- margin-right: auto;
- margin-left: auto;
- text-align: center;
- border-collapse: collapse;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  border-collapse: collapse;
 }
 
-.study-guide td, .study-guide th {
- border: 2px solid #002D72;
- padding-right: 8vw;
- padding-left: 8vw;
+.study-guide td,
+.study-guide th {
+  border: 2px solid #002d72;
+  padding-right: 8vw;
+  padding-left: 8vw;
 }
 
-.modules td, .modules th {
- border: 2px solid #002D72;
- padding-right: 8vw;
- padding-left: 8vw;
+.modules td,
+.modules th {
+  border: 2px solid #002d72;
+  padding-right: 8vw;
+  padding-left: 8vw;
 }
 
 .modules-table {
- margin-right: auto;
- margin-left: auto;
- text-align: center;
- border-collapse: collapse;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  border-collapse: collapse;
 }
 
-.modules{
+.modules {
   margin-right: auto;
   margin-left: auto;
   text-align: center;
@@ -145,45 +149,48 @@ align-items: center;
 }
 
 .quiz-table {
- margin-right: auto;
- margin-left: auto;
- text-align: center;
- border-collapse: collapse;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  border-collapse: collapse;
 }
 
 .lectures h3 {
- text-align: center;
- border-bottom: 2px solid black;
+  text-align: center;
+  border-bottom: 2px solid black;
 }
 
-.lectures td, .lectures th {
- border: 2px solid #002D72;
- padding-right: 8vw;
- padding-left: 8vw;
+.lectures td,
+.lectures th {
+  border: 2px solid #002d72;
+  padding-right: 8vw;
+  padding-left: 8vw;
 }
 
 .lecture-table {
- margin-right: auto;
- margin-left: auto;
- text-align: center;
- border-collapse: collapse;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  border-collapse: collapse;
 }
 
-.data-sheets td, .data-sheets th {
- border: 2px solid #002D72;
- padding-right: 8vw;
- padding-left: 8vw;
+.data-sheets td,
+.data-sheets th {
+  border: 2px solid #002d72;
+  padding-right: 8vw;
+  padding-left: 8vw;
 }
 
 .sheet-table {
- margin-right: auto;
- margin-left: auto;
- text-align: center;
- border-collapse: collapse;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  border-collapse: collapse;
 }
 
-.professors td, .professors th {
- border: 2px solid #002D72;
+.professors td,
+.professors th {
+  border: 2px solid #002d72;
 }
 
 .professors {
@@ -207,14 +214,14 @@ align-items: center;
 }
 
 .footer {
- color: white;
- display: flex;
- margin-top: auto;
- background-color: #002D72;
- width: 100%;
- min-height: 50px;
- align-items: center;
- justify-content: center;
+  color: white;
+  display: flex;
+  margin-top: auto;
+  background-color: #002d72;
+  width: 100%;
+  min-height: 50px;
+  align-items: center;
+  justify-content: center;
 }
 
 .footer div {
@@ -223,45 +230,44 @@ align-items: center;
   text-align: center;
 }
 
-
-
-
 @media screen and (max-width: 600px) {
-  .navbar a:not(:first-child) {display: none;}
+  .navbar a:not(:first-child) {
+    display: none;
+  }
   .navbar {
-   display: flex;
-   justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
   }
   .navbar a.icon {
     display: flex;
     flex-direction: row;
   }
   .footer .space {
-   width: 0%;
+    width: 0%;
   }
   .footer div {
-   width: 100%;
-   text-align: center;
+    width: 100%;
+    text-align: center;
   }
 }
 
 @media screen and (max-width: 600px) {
   .navbar.responsive {
-   display: flex;
-   flex-direction: column;
-   margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
   }
   .navbar.responsive a {
-   padding-bottom: 1%;
-   margin-top: 4%;
-   display: flex;
-   flex-direction: column;
-   margin-right: auto;
+    padding-bottom: 1%;
+    margin-top: 4%;
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
   }
-   .navbar.responsive .icon {
-     display: flex;
-     align-self: flex-end;
-     position: absolute;
-     margin-top: 4.5%;
+  .navbar.responsive .icon {
+    display: flex;
+    align-self: flex-end;
+    position: absolute;
+    margin-top: 4.5%;
   }
 }
