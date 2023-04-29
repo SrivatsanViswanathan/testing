@@ -1,0 +1,74 @@
+[
+  {
+    "intro": [
+      "The contents of this page will have questions related to many of the topics covered in the course content.",
+      "The study guide is not exhaustive (i.e. not all topics you are responsible for are covered.)",
+      "You cannot assume that the questions will bear any resemblance to the questions in this study guide. Memorizing canned answers is not a good idea; use the questions/answers to help identify areas you need to bone up on.",
+      "You should attempt to answer the questions before peeking at the answers. If you cannot understand an answer after reviewing the core material, ask your professor for help.",
+      "The questions should be considered as “closed book”—i.e. you should be able to answer them without reference to a text book or data sheet. However, some of the questions do require technical details that you are not expected to have memorized. (For example, what is the machine language translation of ldaa #3 or which bit is used to tell the A/D subsystem to perform continuous conversions?) For these cases, a Reference Material section is included."
+    ]
+  },
+  {
+    "title": "Quizzes",
+    "container": [
+      {
+        "title": "Quiz Study Guide",
+        "link": "#"
+      },
+      {
+        "title": "Quiz 1",
+        "link": "#"
+      },
+      {
+        "title": "Quiz 2",
+        "link": "#"
+      },
+      {
+        "title": "Quiz 3",
+        "link": "#"
+      },
+      {
+        "title": "Quiz 4",
+        "link": "#"
+      },
+      {
+        "title": "Quiz 5",
+        "link": "#"
+      },
+      {
+        "title": "Quiz 6",
+        "link": "#"
+      },
+      {
+        "title": "Quiz 7",
+        "link": "#"
+      },
+      {
+        "title": "Quiz 8 (Old Quiz)",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Midterms",
+    "container": [
+      {
+        "title": "Recent Midterm",
+        "link": "#"
+      },
+      {
+        "title": "Midterm Study Guide",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Final Exams",
+    "container": [
+      {
+        "title": "Final Study Guide",
+        "link": "#"
+      }
+    ]
+  }
+]

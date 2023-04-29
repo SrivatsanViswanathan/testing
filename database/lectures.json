@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Ken Clowes",
+    "lectures": [
+      {
+        "week": "Week 1",
+        "link": "#"
+      },
+      {
+        "week": "Week 2",
+        "link": "#"
+      },
+      {
+        "week": "Week 3",
+        "link": "#"
+      },
+      {
+        "week": "Week 4",
+        "link": "#"
+      },
+      {
+        "week": "Week 5",
+        "link": "#"
+      },
+      {
+        "week": "Week 6",
+        "link": "#"
+      },
+      {
+        "week": "Week 7",
+        "link": "#"
+      },
+      {
+        "week": "Week 8",
+        "link": "#"
+      },
+      {
+        "week": "Week 9",
+        "link": "#"
+      },
+      {
+        "week": "Week 10",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "name": "Lev Kirischian",
+    "lectures": [
+      {
+        "week": "Week 1 and Week 2",
+        "link": "#"
+      },
+      {
+        "week": "Week 3",
+        "link": "#"
+      }
+    ]
+  }
+]
